@@ -1,5 +1,5 @@
 import sqlite3
-conection = sqlite3.connect("tutorial.db")
+conection = sqlite3.connect("passwords.db")
 
 def create_database():
     execute_query("CREATE TABLE IF NOT EXISTS passwords(serviceName, user, password)", False)
