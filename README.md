@@ -33,28 +33,11 @@ This Password Manager is a Python-based application that allows you to securely 
 
 ## Installation
 
-1. Clone or download this repository
-2. Navigate to the project directory
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## Dependencies
-
-- `cryptography` - For encryption/decryption functionality
-- `cffi` - Required dependency for cryptography
-- `pycparser` - Required dependency for cffi
-
-All dependencies are listed in `requirements.txt`
+1. Download the .exe from the "Release" section of this repository
+2. Copy it to a folder where can be located
+3. Run the application
 
 ## Usage
-
-### Starting the Application
-
-```bash
-python main.py
-```
 
 ### First Time Setup
 
